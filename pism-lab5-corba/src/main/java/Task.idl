@@ -1,0 +1,10 @@
+module TaskApp {
+
+    interface Task {
+
+        void createList();
+        string getVowels();
+
+    };
+
+};
